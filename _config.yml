@@ -1,40 +1,28 @@
-favicon: null
 name: J-Stage Productions
+favicon: null
+layout_spectrum: 0.41973030706867576
+typography_spectrum: 0.8688748120330274
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
 color:
-  saturation: 0.7849463
-  brandStrength: 1
-  lightness: 0.6899642
   brandColors:
-    - '#E0D7C7'
-    - '#AB6420'
-    - '#271E16'
-    - '#652720'
-    - '#CF9A65'
-  rhythmicContrast: 0.311828
-typography_spectrum: 0.08960573
-layout_spectrum: 0.1917563
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.904838452115655
+  lightness: 0.21788895828649402
+  saturation: 0.57808050327003
+  rhythmicContrast: 0.30240825680084527
+purpose: []
