@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[J-Stage Productions]]></title>
         <description><![CDATA[J-Stage Productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/j-stage-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 07:58:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 13 May 2016 08:03:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-stage-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>First Post!</p>]]></description>
-            <link>undefinedfirst-post/index.html</link>
+            <link>https://thegrid.ai/j-stage-productions/first-post/index.html</link>
             <guid isPermaLink="false">8b4ea5d8-7b51-4980-9bc9-dfbb5135cdb2</guid>
-            <pubDate>Fri, 13 May 2016 07:58:19 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 08:02:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
