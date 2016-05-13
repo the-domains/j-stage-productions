@@ -4,8 +4,15 @@
         <description><![CDATA[The Journey of Videoneers]]></description>
         <link>https://thegrid.ai/j-stage-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 08:30:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 08:33:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j-stage-productions/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First Post!]]></title>
+            <description><![CDATA[<article><h1>First Post!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a7a691d87eaa8bdf8ba45bb9013afc82b24f6d.png"></article>]]></description>
+            <link>https://thegrid.ai/j-stage-productions/first-post/index.html</link>
+            <guid isPermaLink="false">8b4ea5d8-7b51-4980-9bc9-dfbb5135cdb2</guid>
+            <pubDate>Fri, 13 May 2016 08:33:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.ndy.com/sites/default/files/imagecache/project_horizontal/NDYL_London-Centrum%20Cerny%20Most_01_0.jpg">]]></description>
