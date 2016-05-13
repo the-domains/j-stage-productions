@@ -4,7 +4,7 @@
         <description><![CDATA[The Journey of Videoneers]]></description>
         <link>https://thegrid.ai/j-stage-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 08:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 08:30:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j-stage-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/j-stage-productions/18f90aa2-d8d1-4ff7-a77c-f67d4774128c/index.html</link>
             <guid isPermaLink="false">18f90aa2-d8d1-4ff7-a77c-f67d4774128c</guid>
             <pubDate>Fri, 13 May 2016 08:28:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First Post!]]></title>
-            <description><![CDATA[<p>First Post!</p>]]></description>
-            <link>https://thegrid.ai/j-stage-productions/first-post/index.html</link>
-            <guid isPermaLink="false">8b4ea5d8-7b51-4980-9bc9-dfbb5135cdb2</guid>
-            <pubDate>Fri, 13 May 2016 08:06:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
