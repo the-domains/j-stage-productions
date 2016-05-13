@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[J-Stage Productions]]></title>
-        <description><![CDATA[J-Stage Productions]]></description>
+        <title><![CDATA[The Journey of Videoneers]]></title>
+        <description><![CDATA[The Journey of Videoneers]]></description>
         <link>https://thegrid.ai/j-stage-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 13 May 2016 08:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 08:06:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/j-stage-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Post!]]></title>
             <description><![CDATA[<p>First Post!</p>]]></description>
             <link>https://thegrid.ai/j-stage-productions/first-post/index.html</link>
             <guid isPermaLink="false">8b4ea5d8-7b51-4980-9bc9-dfbb5135cdb2</guid>
-            <pubDate>Fri, 13 May 2016 08:02:17 GMT</pubDate>
+            <pubDate>Fri, 13 May 2016 08:06:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
