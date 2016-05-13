@@ -1,7 +1,19 @@
 name: J-Stage Productions
 favicon: null
-layout_spectrum: 0.41973030706867576
-typography_spectrum: 0.8688748120330274
+layout_spectrum: 1
+typography_spectrum: 0.06493
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 cta:
   domain: null
   bucket: null
@@ -16,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.904838452115655
-  lightness: 0.21788895828649402
-  saturation: 0.57808050327003
-  rhythmicContrast: 0.30240825680084527
+    - '#83181a'
+    - '#030303'
+    - '#800000'
+    - '#550000'
+    - '#780f0f'
+  brandStrength: 1
+  lightness: 0.6899642
+  saturation: 0.7849463
+  rhythmicContrast: 0.311828
 purpose: []
